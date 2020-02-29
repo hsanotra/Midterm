@@ -10,6 +10,7 @@ package midprac;
  *
  * @author HONEY Sanotra
  * java programming
+   c++ programming
  */
 public class StudentPrint 
 {
