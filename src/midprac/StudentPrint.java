@@ -8,7 +8,7 @@ package midprac;
 
 /**
  *
- * @author HONEY
+ * @author HONEY Sanotra
  */
 public class StudentPrint 
 {
