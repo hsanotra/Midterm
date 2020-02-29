@@ -9,6 +9,7 @@ package midprac;
 /**
  *
  * @author HONEY Sanotra
+ * java programming
  */
 public class StudentPrint 
 {
